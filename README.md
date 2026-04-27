@@ -1,5 +1,6 @@
 # 말투에 숨겨진 감정, GPT로 읽어내기
 ### Hidden Affect Analysis in Korean Text via GPT
+> 📄 [발표자료 보기](./Hidden_Affect_Analysis_Presentation.pdf)
 *Course Project | Kyung Hee University, 2025*
 
 ---
