@@ -14,6 +14,10 @@
 이 프로젝트는 그 숨겨진 언어 전략을 GPT로 포착할 수 있는지를 탐구한다.  
 단순 감정 분류가 아니라, **표현 방식 자체를 해석의 대상**으로 삼았다.
 
+
+## Web
+<img width="531" height="190" alt="image" src="https://github.com/user-attachments/assets/8c2175d8-25f6-49ef-baf7-5c034fdb1dc4" />
+
 ---
 
 ## Design Principle
