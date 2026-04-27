@@ -46,6 +46,10 @@
 - 감정 진심도 점수 (직접성 / 책임 명확성 / 회피 지수)
 - 총평 — GPT의 언어 구조 해석
 
+<img width="602" height="304" alt="image" src="https://github.com/user-attachments/assets/b2ba658d-99fa-4e99-9132-8ce8ec59ae62" />
+
+<img width="605" height="306" alt="image" src="https://github.com/user-attachments/assets/2f021d96-d3f2-41db-b102-b160795204d7" />
+
 ---
 
 ## Limitations
